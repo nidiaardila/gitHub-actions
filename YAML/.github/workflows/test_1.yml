@@ -1,4 +1,4 @@
-name: Hola Mundo 2.1
+name: Hola Mundo 7
 
 on: [push]
 
@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Hola Mundo
-      run: echo "Hola Mundo..."
+    - name: Hola Mundo7
+      run: echo "Hola Mundo 7"
