@@ -4,3 +4,5 @@ let estudiante = true;
 Function sumar(a,b){
   return a+b
 }
+
+sumar (5, 8)
