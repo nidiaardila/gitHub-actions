@@ -1,6 +1,6 @@
 let name = "";
 let edad = 28;
 let estudiante = true;
-Function sumar(){
+Function sumar(a,b){
   return a+b
 }
